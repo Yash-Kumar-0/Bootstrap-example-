@@ -1,0 +1,83 @@
+body{
+    background-color: yellow;
+}
+.container{
+    background-color:red;
+    height: 500px;
+}
+#div1{
+    background-color: blueviolet;
+}
+
+.img-fluid{
+   
+    height: auto;
+    max-width: 100%;
+}
+
+#left1{
+    color:white;
+    font-size: larger;
+    }
+
+
+#right11{
+    color: white;
+}
+
+/*#div2{
+    height:100px;
+    background-color: purple;
+}*/
+
+#left21{
+    background-color:purple;
+}
+#left22{
+    background-color:purple;   
+}
+#right21{
+    background-color:purple;
+}
+#right22{
+    background-color:purple;
+}
+#navbarDropdown{
+    color: white;
+}
+p.div2text{
+    color:blueviolet;
+}
+#Survey{
+    color: white;
+}
+#FAQ{
+    color: white;
+}
+#Details{
+    color:white;   
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#Extra{
+    color:white;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#More{
+    color:white;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#div3{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: gray;
+    height: 100px;;
+}
+.center{
+    margin-top:20px;
+    text-align: center;
+}
+
