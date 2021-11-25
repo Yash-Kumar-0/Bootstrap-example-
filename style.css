@@ -1,12 +1,10 @@
-body{
-    background-color: yellow;
-}
+
 .container{
-    background-color:red;
+    background-color: #30304F;
     height: 500px;
 }
 #div1{
-    background-color: blueviolet;
+    background-color: #30304F;
 }
 
 .img-fluid{
@@ -18,56 +16,87 @@ body{
 #left1{
     color:white;
     font-size: larger;
+    left: 36px;
+    top: 11px;
     }
 
 
 #right11{
     color: white;
+    margin-left: auto;
+    margin-right: 0px;
+    
+}
+/* #right11text{
+    float:right;
+} */
+
+#LOGOUT{
+   background: rgba(165, 166, 246, 0.31);
+   border: 4px solid #7879F1;
+   box-sizing: border-box;
+   border-radius: 18px;
+   float: right;
 }
 
-/*#div2{
-    height:100px;
-    background-color: purple;
-}*/
+#div2{
+    background-color: #161625; ;
+    padding: 1em;
+}
 
+/*
 #left21{
     background-color:purple;
 }
 #left22{
     background-color:purple;   
 }
-#right21{
-    background-color:purple;
-}
+
 #right22{
     background-color:purple;
 }
+*/
+
+
 #navbarDropdown{
     color: white;
+    float:right;
 }
 p.div2text{
-    color:blueviolet;
+    color: #7879F1;
 }
 #Survey{
     color: white;
+    border: 1px dashed #7B61FF;
+    box-sizing: border-box;
+    border-radius: 5px;
 }
 #FAQ{
     color: white;
 }
 #Details{
+    background:rgba(120, 121, 241, 0.54);
     color:white;   
     margin-right: 5px;
     margin-left: 5px;
+    border-radius: 17px; 
+    float: right;
+   
 }
+
 #Extra{
     color:white;
     margin-right: 5px;
     margin-left: 5px;
+    background: #7879F1;
+    border-radius: 17px;
+    float: right;
 }
 #More{
+    background: #7879F1;
+    border-radius: 17px;
     color:white;
-    margin-right: 5px;
-    margin-left: 5px;
+    float: right;
 }
 #div3{
     margin-top: 20px;
