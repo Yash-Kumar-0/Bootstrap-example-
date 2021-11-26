@@ -12,24 +12,29 @@
     height: auto;
     max-width: 100%;
 }
-
-#left1{
+#left11{
+   
+    top:15px;
+    left:20px;
+    
+    }
+#left12{
     color:white;
-    font-size: larger;
-    left: 36px;
-    top: 11px;
+    font-size: 30px;
+    top:15px;
+    
     }
 
 
 #right11{
     color: white;
-    margin-left: auto;
-    margin-right: 0px;
+    top:5px;
     
 }
-/* #right11text{
+#right11text{
+    font-size: 20px;
     float:right;
-} */
+}
 
 #LOGOUT{
    background: rgba(165, 166, 246, 0.31);
@@ -61,9 +66,11 @@
 #navbarDropdown{
     color: white;
     float:right;
+    font-size: 18px;
 }
 p.div2text{
     color: #7879F1;
+    font-size: 25px;
 }
 #Survey{
     color: white;
